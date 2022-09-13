@@ -1,0 +1,23 @@
+form{
+    width: 272px;
+    margin: 100px auto;
+    box-shadow: 0px 0px 15px black;
+}
+.bouton , .bouton_Equal{
+    width: 65px;
+    height: 65px;
+    font-size: 15px;
+}
+.afficheur{
+    width: 263px;
+    height: 80px;
+    font-size: 20px;
+}
+.bouton:hover{
+    background-color: #333;
+    color: white;
+}
+.bouton_Equal:hover{
+    background-color: blue;
+    color: white;
+}
